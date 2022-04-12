@@ -30,7 +30,7 @@
 		<servlet-api.version>2.5</servlet-api.version>
 		<slf4j-api.version>1.7.7</slf4j-api.version>
 		<UserAgentUtils.version>1.2.4</UserAgentUtils.version>
-		<bcprov-jdk14.version>1.50</bcprov-jdk14.version>
+		<bcprov-jdk14.version>1.70</bcprov-jdk14.version>
 		<fastjson.version>1.1.41</fastjson.version>
 	</properties>
 
