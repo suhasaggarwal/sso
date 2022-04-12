@@ -28,7 +28,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<servlet-api.version>2.5</servlet-api.version>
-		<slf4j-api.version>1.7.7</slf4j-api.version>
+		<slf4j-api.version>1.7.36</slf4j-api.version>
 		<UserAgentUtils.version>1.2.4</UserAgentUtils.version>
 		<bcprov-jdk14.version>1.50</bcprov-jdk14.version>
 		<fastjson.version>1.1.41</fastjson.version>
