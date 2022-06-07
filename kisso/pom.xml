@@ -31,7 +31,7 @@
 		<slf4j-api.version>1.7.7</slf4j-api.version>
 		<UserAgentUtils.version>1.2.4</UserAgentUtils.version>
 		<bcprov-jdk14.version>1.50</bcprov-jdk14.version>
-		<fastjson.version>1.1.41</fastjson.version>
+		<fastjson.version>1.2.83</fastjson.version>
 	</properties>
 
 	<dependencies>
